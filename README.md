@@ -8,7 +8,7 @@ ClearCareer is a personal resume website for Pallavi Biradar, showcasing skills,
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ClearCareer
+   cd Portfolio
    ```
 3. Open `index.html` in your web browser to view the resume.
 
